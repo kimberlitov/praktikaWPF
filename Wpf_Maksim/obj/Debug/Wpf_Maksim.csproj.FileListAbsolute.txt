@@ -1,0 +1,62 @@
+D:\praktika\pr2\Wpf_Maksim\bin\Debug\Wpf_Maksim.exe.config
+D:\praktika\pr2\Wpf_Maksim\bin\Debug\Wpf_Maksim.exe
+D:\praktika\pr2\Wpf_Maksim\bin\Debug\Wpf_Maksim.pdb
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.csproj.AssemblyReference.cache
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.csproj.SuggestedBindingRedirects.cache
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\MainWindow.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\App.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim_MarkupCompile.cache
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim_MarkupCompile.lref
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\MainWindow.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.g.resources
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.Properties.Resources.resources
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.csproj.GenerateResource.cache
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.csproj.CoreCompileInputs.cache
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.exe
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\Wpf_Maksim.pdb
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageMain.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageMain.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\App.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageClients.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageContract.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageDeals.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageEmployee.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageHelp.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageSecurities.g.cs
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageClients.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageContract.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageDeals.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageEmployee.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageHelp.baml
+D:\praktika\pr2\Wpf_Maksim\obj\Debug\PageSecurities.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.csproj.AssemblyReference.cache
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.csproj.SuggestedBindingRedirects.cache
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\MainWindow.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageClients.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageContract.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageDeals.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageEmployee.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageHelp.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageMain.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageSecurities.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\App.g.cs
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim_MarkupCompile.cache
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim_MarkupCompile.lref
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.exe
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.pdb
+D:\praktika\pr2\Wpf_Maksim — копия (2)\bin\Debug\Wpf_Maksim.exe.config
+D:\praktika\pr2\Wpf_Maksim — копия (2)\bin\Debug\Wpf_Maksim.exe
+D:\praktika\pr2\Wpf_Maksim — копия (2)\bin\Debug\Wpf_Maksim.pdb
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\App.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\MainWindow.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageClients.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageContract.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageDeals.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageEmployee.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageHelp.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageMain.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\PageSecurities.baml
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.g.resources
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.Properties.Resources.resources
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.csproj.GenerateResource.cache
+D:\praktika\pr2\Wpf_Maksim — копия (2)\obj\Debug\Wpf_Maksim.csproj.CoreCompileInputs.cache
